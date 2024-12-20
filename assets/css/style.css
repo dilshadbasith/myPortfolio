@@ -450,9 +450,10 @@ p {
 # Hero
 --------------------------------------------------------------*/
 #hero {
-  background: url("../img/homeimg.webp") repeat scroll center center/cover;
+  background: url("../img/dilll.jpg") repeat scroll center center/cover;
   height: 100vh;
   width: 100%;
+  
 }
 
 #hero .hero-content {
